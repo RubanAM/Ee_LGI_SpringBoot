@@ -14,7 +14,7 @@ import java.util.List;
  * @author Kalpana Pochareddy
  */
 
-@CrossOrigin(origins = "http://13.41.158.166:4200", allowedHeaders = "*")
+@CrossOrigin(origins = "http://18.130.229.145:4200", allowedHeaders = "*")
 @RestController
 public class EmployeeController {
 
